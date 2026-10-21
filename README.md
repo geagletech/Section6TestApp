@@ -1,2 +1,2 @@
 # Section6TestApp
-srtgsergserg
+This sample app was created for Section 6.
